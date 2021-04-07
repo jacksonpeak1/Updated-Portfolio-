@@ -2,12 +2,12 @@
 
 1. [Updated Portfolio](#updated-portfolio)
 2. [GitHub Profile](https://github.com/settings/profile)
-3. [Updated Resume](#updated-resume)
+3. [Updated Resume](https://github.com/jacksonpeak1/Updated-Portfolio-/blob/main/assets/Resume.png)
 4. [Updated LinkedIn](https://www.linkedin.com/in/jackson-peak-7b679b208/)
 
 ## Deployed Site Screenshot
 
-![Portfolio Site](https://jacksonpeak1.github.io/Updated-Portfolio-/)
+![Portfolio Site](https://github.com/jacksonpeak1/Updated-Portfolio-/blob/main/assets/screencapture-jacksonpeak1-github-io-Updated-Portfolio-2021-04-06-22_09_30%20(1).png)
 
 --
 ## Site Link Below
