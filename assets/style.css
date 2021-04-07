@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: #c9e4ca;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: gray;
+  height: 75px;
+  padding: 0px 20px;
+}
+
+.nav-links ul {
+  display: flex;
+  list-style: none;
+}
+
+.nav-links li {
+  margin: 0px 5px;
+}
+
+Class Selector .hero {
+  height: 250px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("https://northcoasttraining.org/wp-content/uploads/2018/05/blue-wood-fence-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-color: white;
+}
+
+.row {
+  margin: 30px 0px;
+}
+
+.col-2,
+.col-10 {
+  /* border:1px solid black; */
+}
+
+.section-title {
+  border-right: 10px solid black;
+}
