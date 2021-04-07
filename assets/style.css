@@ -9,6 +9,10 @@ body {
   background-color: #c9e4ca;
 }
 
+.navbar {
+    background-color: #c9e4ca;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -27,7 +31,7 @@ body {
   margin: 0px 5px;
 }
 
-Class Selector .hero {
+/* Class Selector .hero {
   height: 250px;
   width: 100%;
   margin-bottom: 25px;
@@ -35,7 +39,7 @@ Class Selector .hero {
   background-size: cover;
   background-position: center;
   background-color: white;
-}
+} */
 
 .row {
   margin: 30px 0px;
